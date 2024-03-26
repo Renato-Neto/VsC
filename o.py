@@ -1,0 +1,1 @@
+variavel = (input(print: "oi"))
